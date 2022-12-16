@@ -1,0 +1,30 @@
+C:\Users\akshayg\Desktop\project\bin\Debug\net6.0\project.exe
+C:\Users\akshayg\Desktop\project\bin\Debug\net6.0\project.deps.json
+C:\Users\akshayg\Desktop\project\bin\Debug\net6.0\project.runtimeconfig.json
+C:\Users\akshayg\Desktop\project\bin\Debug\net6.0\project.dll
+C:\Users\akshayg\Desktop\project\bin\Debug\net6.0\project.pdb
+C:\Users\akshayg\Desktop\project\obj\Debug\net6.0\project.csproj.AssemblyReference.cache
+C:\Users\akshayg\Desktop\project\obj\Debug\net6.0\project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akshayg\Desktop\project\obj\Debug\net6.0\project.AssemblyInfoInputs.cache
+C:\Users\akshayg\Desktop\project\obj\Debug\net6.0\project.AssemblyInfo.cs
+C:\Users\akshayg\Desktop\project\obj\Debug\net6.0\project.csproj.CoreCompileInputs.cache
+C:\Users\akshayg\Desktop\project\obj\Debug\net6.0\project.dll
+C:\Users\akshayg\Desktop\project\obj\Debug\net6.0\refint\project.dll
+C:\Users\akshayg\Desktop\project\obj\Debug\net6.0\project.pdb
+C:\Users\akshayg\Desktop\project\obj\Debug\net6.0\project.genruntimeconfig.cache
+C:\Users\akshayg\Desktop\project\obj\Debug\net6.0\ref\project.dll
+C:\Users\subhamsamanta\Desktop\Dotnet project\project\bin\Debug\net6.0\project.exe
+C:\Users\subhamsamanta\Desktop\Dotnet project\project\bin\Debug\net6.0\project.deps.json
+C:\Users\subhamsamanta\Desktop\Dotnet project\project\bin\Debug\net6.0\project.runtimeconfig.json
+C:\Users\subhamsamanta\Desktop\Dotnet project\project\bin\Debug\net6.0\project.dll
+C:\Users\subhamsamanta\Desktop\Dotnet project\project\bin\Debug\net6.0\project.pdb
+C:\Users\subhamsamanta\Desktop\Dotnet project\project\obj\Debug\net6.0\project.csproj.AssemblyReference.cache
+C:\Users\subhamsamanta\Desktop\Dotnet project\project\obj\Debug\net6.0\project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\subhamsamanta\Desktop\Dotnet project\project\obj\Debug\net6.0\project.AssemblyInfoInputs.cache
+C:\Users\subhamsamanta\Desktop\Dotnet project\project\obj\Debug\net6.0\project.AssemblyInfo.cs
+C:\Users\subhamsamanta\Desktop\Dotnet project\project\obj\Debug\net6.0\project.csproj.CoreCompileInputs.cache
+C:\Users\subhamsamanta\Desktop\Dotnet project\project\obj\Debug\net6.0\project.dll
+C:\Users\subhamsamanta\Desktop\Dotnet project\project\obj\Debug\net6.0\refint\project.dll
+C:\Users\subhamsamanta\Desktop\Dotnet project\project\obj\Debug\net6.0\project.pdb
+C:\Users\subhamsamanta\Desktop\Dotnet project\project\obj\Debug\net6.0\project.genruntimeconfig.cache
+C:\Users\subhamsamanta\Desktop\Dotnet project\project\obj\Debug\net6.0\ref\project.dll
